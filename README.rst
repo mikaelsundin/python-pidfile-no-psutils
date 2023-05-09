@@ -1,31 +1,6 @@
 Python PIDFile
 ==============
 
-.. image:: https://github.com/mosquito/python-pidfile/actions/workflows/tests.yml/badge.svg
-   :target: https://github.com/mosquito/python-pidfile/actions/workflows/tests.yml
-   :alt: Github Actions
-
-.. image:: https://img.shields.io/pypi/v/python-pidfile.svg
-   :target: https://pypi.python.org/pypi/python-pidfile/
-   :alt: Latest Version
-
-.. image:: https://img.shields.io/pypi/wheel/python-pidfile.svg
-   :target: https://pypi.python.org/pypi/python-pidfile/
-   :alt: round wheels
-
-.. image:: https://img.shields.io/pypi/pyversions/python-pidfile.svg
-   :target: https://pypi.python.org/pypi/python-pidfile/
-   :alt: Python versions
-
-.. image:: https://img.shields.io/pypi/l/python-pidfile.svg
-   :target: https://pypi.python.org/pypi/python-pidfile/
-   :alt: License
-
-.. image:: https://coveralls.io/repos/github/CostantinoGrana/python-pidfile/badge.svg?branch=master
-   :target: https://coveralls.io/github/CostantinoGrana/python-pidfile?branch=master
-   :alt: Coverage Status
-
-
 Python context manager for managing pid files. Example usage:
 
 .. code-block:: python
